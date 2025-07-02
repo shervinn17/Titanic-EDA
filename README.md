@@ -59,8 +59,8 @@ This project presents an exploratory data analysis (EDA) of the Titanic dataset 
 
 ## 📂 Files
 
-- `Task 5 Elevate Labs.ipynb` – Main notebook containing all the EDA steps
-- `train.csv` – Titanic training dataset
+- `Titanic EDA Python File.ipynb` – Main notebook containing all the EDA steps
+- `Titanic Dataset.csv` – Titanic training dataset
 
 ---
 
