@@ -6,7 +6,7 @@ This project presents an exploratory data analysis (EDA) of the Titanic dataset 
 
 ## 📁 Dataset
 
-- **Source**: `train.csv`
+- **Source**: `Titanic Dataset.csv`
 - **Description**: Contains information on passengers aboard the Titanic, including demographic data, ticket information, and survival outcome (`Survived` column: 0 = No, 1 = Yes).
 
 ---
